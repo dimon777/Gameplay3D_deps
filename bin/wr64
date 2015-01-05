@@ -1,0 +1,3 @@
+#!/bin/bash
+
+windres -F pe-x86-64 $@

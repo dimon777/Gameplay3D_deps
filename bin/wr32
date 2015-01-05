@@ -1,0 +1,4 @@
+#!/bin/bash
+
+windres -F pe-i386 $@
+
