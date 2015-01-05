@@ -57,7 +57,10 @@ c:\compiler\mingw32_sjlj	<-- MinGW goes here
 			    bin
 			    etc
 			    ...
-
+ERROR: When compiling libav.
+*** missing seprarator. Stop
+SOLUTION: 
+git config --global core.autocrlf false
 
 Gotchas Libraries
 =================
